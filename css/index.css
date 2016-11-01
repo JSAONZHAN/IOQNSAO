@@ -1,0 +1,56 @@
+body{
+	margin: 0;padding: 0;
+}
+#box{
+	width: 728px;
+	height: 669px;
+	background-color:#666666;
+	margin: 50px auto;
+	border-radius: 10px;
+}
+.mingzi{
+	position: relative;
+	top:10px;
+}
+.title{
+	color: white;
+	font-size: 20px;
+	text-indent: 30px;
+}
+.number{
+	width: 649px;
+	height: 66px;
+	background-color: white;
+	margin: auto;
+	margin-top: 30px;
+	border-radius: 5px;
+	font-size: 60px;
+	text-align: right;
+	line-height: 60px;
+}
+.shuzi{
+	width:720px;
+	height: 480px;
+	background-color:#666666;
+	margin: 28px auto;
+}	
+li{
+	width:106px;
+	height: 78px;
+	box-shadow: 0 0 5px white; 
+	list-style: none;
+	float: left;
+	margin: 13px;
+	color: white;
+	font-size: 30px;
+	line-height: 78px;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 5px;
+}
+li.yanse{
+	background-color: #ff66ff;
+}
+li.yanse2{
+	background-color: #ffcc33;
+}
